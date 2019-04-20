@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 0e6b6197b7ec31f4296fa3f49adbb2ea
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ChamferBox074
+    100002: ChamferBox075
+    100004: ChamferBox076
+    100006: ChamferBox077
+    100008: ChamferBox078
+    100010: ChamferBox079
+    100012: ChamferBox080
+    100014: ChamferBox081
+    100016: ChamferBox082
+    100018: ChamferBox083
+    100020: KG-01_Blue_Fog_7.9x9.9
+    100022: KG-02_Pewter_7.9x9.9
+    100024: //RootNode
+    100026: MM-07_Rust-Ivory
+    100028: MP-04_Beige_Black
+    100030: Particle View 002
+    100032: Particle View 01
+    100034: RL-04_BROWN-IVORY
+    100036: WL-03_Beige_Black_3.1x5.7
+    100038: WL-03_Ivory_Red_3.1x5.7
+    100040: WL-04_Coffee_Beige_3.1x5.7
+    100042: WL-05_Camel_Ivory_3.1x5.7
+    100044: WL-05_Red_Beige_3.1x5.7
+    400000: ChamferBox074
+    400002: ChamferBox075
+    400004: ChamferBox076
+    400006: ChamferBox077
+    400008: ChamferBox078
+    400010: ChamferBox079
+    400012: ChamferBox080
+    400014: ChamferBox081
+    400016: ChamferBox082
+    400018: ChamferBox083
+    400020: KG-01_Blue_Fog_7.9x9.9
+    400022: KG-02_Pewter_7.9x9.9
+    400024: //RootNode
+    400026: MM-07_Rust-Ivory
+    400028: MP-04_Beige_Black
+    400030: Particle View 002
+    400032: Particle View 01
+    400034: RL-04_BROWN-IVORY
+    400036: WL-03_Beige_Black_3.1x5.7
+    400038: WL-03_Ivory_Red_3.1x5.7
+    400040: WL-04_Coffee_Beige_3.1x5.7
+    400042: WL-05_Camel_Ivory_3.1x5.7
+    400044: WL-05_Red_Beige_3.1x5.7
+    2100000: "123\u044B\u0444\u0443\u044B\u0430\u0432\u0430\u044C\u0444\u044B\u044B\u0432"
+    2100002: "123\u044B\u0444\u0443\u044B\u0430\u0432\u0430\u044C\u0444\u044B\u044B\u0432d"
+    2100004: "123\u044B\u0444\u0443\u044B\u0430\u0432\u0430\u044C\u0444\u044B\u044B\u0432f"
+    2100006: "123\u044B\u0444\u0443\u044B\u0430\u0432\u0430\u044C\u0444\u044B\u044B\u0432dk"
+    2100008: "123\u044B\u0444\u0443\u044B\u0430\u0432\u0430\u044C\u0444\u044B\u044B\u0432fl"
+    2100010: "123\u044B\u0444\u0443\u044B\u0430\u0432\u0430\u044C\u0444\u044B\u044B\u0432dkj"
+    2100012: "123\u044B\u0444\u0443\u044B\u0430\u0432\u0430\u044C\u0444\u044B\u044B\u0432flj"
+    2100014: "123\u044B\u0444\u0443\u044B\u0430\u0432\u0430\u044C\u0444\u044B\u044B\u0432fljk"
+    2100016: "123\u044B\u0444\u0443\u044B\u0430\u0432\u0430\u044C\u0444\u044B\u044B\u0432fjlj"
+    2100018: "123\u044B\u0444\u0443\u044B\u0430\u0432\u0430\u044C\u0444\u044B\u044B\u0432fljl"
+    2300000: ChamferBox074
+    2300002: ChamferBox075
+    2300004: ChamferBox076
+    2300006: ChamferBox077
+    2300008: ChamferBox078
+    2300010: ChamferBox079
+    2300012: ChamferBox080
+    2300014: ChamferBox081
+    2300016: ChamferBox082
+    2300018: ChamferBox083
+    3300000: ChamferBox074
+    3300002: ChamferBox075
+    3300004: ChamferBox076
+    3300006: ChamferBox077
+    3300008: ChamferBox078
+    3300010: ChamferBox079
+    3300012: ChamferBox080
+    3300014: ChamferBox081
+    3300016: ChamferBox082
+    3300018: ChamferBox083
+    4300000: ChamferBox074
+    4300002: ChamferBox075
+    4300004: ChamferBox076
+    4300006: ChamferBox077
+    4300008: ChamferBox078
+    4300010: ChamferBox079
+    4300012: ChamferBox080
+    4300014: ChamferBox081
+    4300016: ChamferBox082
+    4300018: ChamferBox083
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
