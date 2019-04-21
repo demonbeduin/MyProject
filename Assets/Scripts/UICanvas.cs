@@ -6,13 +6,14 @@ using UnityEngine.UI;
 public class UICanvas : MonoBehaviour
 {
     public GameObject UI_Canvas;
+    private GameObject _canvas;
 
     void Start()
     {
-        Instantiate(UI_Canvas, new Vector3(0, 0, 0), Quaternion.identity);
+        _canvas =  Instantiate(UI_Canvas, new Vector3(0, 0, 0), Quaternion.identity);
     }
     void Update()
     {
-
+        
     }
 }
